@@ -10,7 +10,7 @@ type Props ={
 export default function SkillsCard({skill}:Props){
     const {image, percent, title} = skill
     return(
-        <div className="p-6 hover:bg-blue-800 duration-300 transition-all cursor-pointer text-center rounded-lg bg-gray-900">
+        <div className="p-6 hover:bg-[#8a063f]  duration-300 transition-all cursor-pointer text-center rounded-lg bg-gray-900">
             <Image src={image}
             alt={title}
             width={80}
