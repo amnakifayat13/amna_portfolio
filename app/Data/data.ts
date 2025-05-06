@@ -119,6 +119,31 @@ export const BaseInfo = {
       image: "/images/img11.png",
       url: "https://agentia-world-theta.vercel.app/",
     },
+
+    {
+      id: 11,
+      image: "/images/img12.png",
+      url: "https://amnakifayat13-projects10outof25projects-home-gu2v3l.streamlit.app/",
+    },
+
+    {
+      id: 12,
+      image: "/images/img13.png",
+      url: "https://amnakifayat13-streamlit-resume-builder-app-uwr4zj.streamlit.app/",
+    },
+
+    {
+      id: 13,
+      image: "/images/img14.png",
+      url: "https://amnakifayat13-beauty-com-app-pxy54s.streamlit.app/",
+    },
+
+    {
+      id: 14,
+      image: "/images/img15.png",
+      url: "https://amnakifayat13-personal-lib-manager-app-gkkxv8.streamlit.app/",
+    },
+    
     
   ];
   
